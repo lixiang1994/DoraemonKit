@@ -1,5 +1,15 @@
 DoraemonKit-Android releases
 ===
+## 3.1.8 & 3.0.7.2
+1.适配AGP 4.0
+
+2.github issues fixed
+
+## 3.1.6
+1.更换dokit的底层插件框架为[booster](https://github.com/didi/booster),兼容性和编译速度得到显著提升
+
+2.github issues fixed
+
 ## 3.0.6
 1.对齐androidx dokit v3.1.5 版本功能
 

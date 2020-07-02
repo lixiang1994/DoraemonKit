@@ -1,7 +1,7 @@
 <div align="center">    
  <img src="https://javer.oss-cn-shanghai.aliyuncs.com/doraemon/github/DoraemonKit_github.png" width = "150" height = "150" alt="DoraemonKit" align=left />
  <img src="https://img.shields.io/github/license/didi/DoraemonKit.svg" align=left />
- <img src="https://img.shields.io/badge/Android-3.1.5-blue.svg" align=left />
+ <img src="https://img.shields.io/badge/Android-3.1.8-blue.svg" align=left />
  <img src="https://img.shields.io/badge/iOS-3.0.2-yellow.svg" align=left />
  <img src="https://img.shields.io/badge/miniapp-0.0.1-red.svg" align=left />
  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" align=left />
@@ -20,6 +20,11 @@
 
 > [English Readme](README.md)
 
+**社区活动**
+
+>dokit-android: [dokit-kotlin](https://github.com/didi/DoraemonKit/issues/531)
+>
+>dokit-iOS: [dokit-swift](https://github.com/didi/DoraemonKit/issues/493)
 
 ## 开发背景
 
